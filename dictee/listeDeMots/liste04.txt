@@ -1,0 +1,10 @@
+combien;combien.mp3
+comme;comme.mp3
+comment;comment.mp3
+d'abord;d_abord.mp3
+d'accord;d_accord.mp3
+dans;dans.mp3
+davantage;davantage.mp3
+dedans;dedans.mp3
+dehors;dehors.mp3
+déjà;deja.mp3

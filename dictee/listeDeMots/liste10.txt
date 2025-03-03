@@ -1,0 +1,10 @@
+par-dessus;par-dessus.mp3
+parfois;parfois.mp3
+parmi;parmi.mp3
+partout;partout.mp3
+pas;pas.mp3
+pendant;pendant.mp3
+personne;personne.mp3
+peu;peu.mp3
+peut-être;peut-etre.mp3
+plus;plus.mp3

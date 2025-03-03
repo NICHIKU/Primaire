@@ -1,0 +1,41 @@
+les Etats-unis;les_Etats-unis.mp3
+un journal;un_journal.mp3
+une année;une_annee.mp3
+l'art;l_art.mp3
+la publicité;la_publicite.mp3
+la peinture;la_peinture.mp3
+arriver;arriver.mp3
+illustrer;illustrer.mp3
+travailler;travailler.mp3
+se tourner;se_tourner.mp3
+plusieurs;plusieurs.mp3
+quand;quand.mp3
+d'abord;d_abord.mp3
+ensuite;ensuite.mp3
+avant;avant.mp3
+vers;vers.mp3
+un ami;un_ami.mp3
+un peintre;un_peintre.mp3
+un graveur;un_graveur.mp3
+un dessinateur;un_dessinateur.mp3
+un mouvement;un_mouvement.mp3
+vouloir;vouloir.mp3
+proposer;proposer.mp3
+autre;autre.mp3
+artistique;artistique.mp3
+populaire;populaire.mp3
+accessible;accessible.mp3
+avec;avec.mp3
+un univers;un_univers.mp3
+la bande dessinée;la_bande_dessinee.mp3
+une personne;une_personne.mp3
+un objet;un_objet.mp3
+un aliment;un_aliment.mp3
+une star;une_star.mp3
+le cinéma;le_cinema.mp3
+une oeuvre;une_oeuvre.mp3
+détourner;detourner.mp3
+réussir;reussir.mp3
+transformer;transformer.mp3
+simple;simple.mp3
+comme;comme.mp3

@@ -1,0 +1,14 @@
+peut-être;peut-etre.mp3
+lorsque;lorsque.mp3
+alors;alors.mp3
+jour;jour.mp3
+chien;chien.mp3
+compagnie;compagnie.mp3
+parent;parent.mp3
+bêtise;betise.mp3
+bazar;bazar.mp3
+vouloir;vouloir.mp3
+ranger;ranger.mp3
+pardonner;pardonner.mp3
+mécontent;mecontent.mp3
+grave;grave.mp3

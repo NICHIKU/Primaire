@@ -1,0 +1,142 @@
+afin de;afin_de.mp3
+afin que;afin_que.mp3
+ailleurs;ailleurs.mp3
+ainsi;ainsi.mp3
+alors;alors.mp3
+après;apres.mp3
+assez;assez.mp3
+à travers;a_travers.mp3
+au-dessous;au-dessous.mp3
+au-dessus;au-dessus.mp3
+aujourd'hui;aujourd_hui.mp3
+auparavant;auparavant.mp3
+auprès;aupres.mp3
+aussi;aussi.mp3
+aussitôt;aussitot.mp3
+autant;autant.mp3
+autour;autour.mp3
+autrefois;autrefois.mp3
+autrement;autrement.mp3
+avant;avant.mp3
+avec;avec.mp3
+beaucoup;beaucoup.mp3
+bien;bien.mp3
+bientôt;bientot.mp3
+car;car.mp3
+ceci;ceci.mp3
+cela;cela.mp3
+cependant;cependant.mp3
+certes;certes.mp3
+chaque;chaque.mp3
+chez;chez.mp3
+combien;combien.mp3
+comme;comme.mp3
+comment;comment.mp3
+d'abord;d_abord.mp3
+d'accord;d_accord.mp3
+dans;dans.mp3
+davantage;davantage.mp3
+dedans;dedans.mp3
+dehors;dehors.mp3
+déjà;deja.mp3
+demain;demain.mp3
+de nouveau;de_nouveau.mp3
+depuis;depuis.mp3
+derrière;derriere.mp3
+dès lors;des_lors.mp3
+dès que;des_que.mp3
+désormais;desormais.mp3
+dessous;dessous.mp3
+dessus;dessus.mp3
+devant;devant.mp3
+donc;donc.mp3
+dont;dont.mp3
+dorénavant;dorenavant.mp3
+durant;durant.mp3
+encore;encore.mp3
+en effet;en_effet.mp3
+enfin;enfin.mp3
+ensuite;ensuite.mp3
+entre;entre.mp3
+en vérité;en_verite.mp3
+envers;envers.mp3
+environ;environ.mp3
+exprès;expres.mp3
+fois;fois.mp3
+guère;guere.mp3
+hélas;helas.mp3
+hier;hier.mp3
+hors de;hors_de.mp3
+ici;ici.mp3
+jadis;jadis.mp3
+jamais;jamais.mp3
+jusqu'à;jusqu_a.mp3
+là;la.mp3
+là-bas;la-bas.mp3
+le long;le_long.mp3
+loin;loin.mp3
+longtemps;longtemps.mp3
+lors de;lors_de.mp3
+lorsque;lorsque.mp3
+maintenant;maintenant.mp3
+mais;mais.mp3
+malgré;malgre.mp3
+mieux;mieux.mp3
+moindre;moindre.mp3
+moins;moins.mp3
+naguère;naguere.mp3
+néanmoins;neanmoins.mp3
+non;non.mp3
+par;par.mp3
+parce que;parce_que.mp3
+par-dessous;par-dessous.mp3
+par-dessus;par-dessus.mp3
+parfois;parfois.mp3
+parmi;parmi.mp3
+partout;partout.mp3
+pas;pas.mp3
+pendant;pendant.mp3
+personne;personne.mp3
+peu;peu.mp3
+peut-être;peut-etre.mp3
+plus;plus.mp3
+plusieurs;plusieurs.mp3
+plutôt;plutot.mp3
+pour;pour.mp3
+pourquoi;pourquoi.mp3
+pourtant;pourtant.mp3
+près;pres.mp3
+presque;presque.mp3
+puis;puis.mp3
+quand;quand.mp3
+quoi;quoi.mp3
+quelquefois;quelquefois.mp3
+quoique;quoique.mp3
+sans;sans.mp3
+sauf;sauf.mp3
+selon;selon.mp3
+seulement;seulement.mp3
+sinon;sinon.mp3
+sitôt;sitot.mp3
+soudain;soudain.mp3
+sous;sous.mp3
+souvent;souvent.mp3
+sur;sur.mp3
+surtout;surtout.mp3
+tant;tant.mp3
+tant mieux;tant_mieux.mp3
+tantôt;tantot.mp3
+tant pis;tant_pis.mp3
+tard;tard.mp3
+tôt;tot.mp3
+toujours;toujours.mp3
+tout à coup;tout_a_coup.mp3
+tout à fait;tout_a_fait.mp3
+toutefois;toutefois.mp3
+très;tres.mp3
+trop;trop.mp3
+vers;vers.mp3
+voici;voici.mp3
+voilà;voila.mp3
+volontiers;volontiers.mp3
+vraiment;vraiment.mp3

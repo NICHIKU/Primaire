@@ -1,0 +1,10 @@
+auparavant;auparavant.mp3
+auprès;aupres.mp3
+aussi;aussi.mp3
+aussitôt;aussitot.mp3
+autant;autant.mp3
+autour;autour.mp3
+autrefois;autrefois.mp3
+autrement;autrement.mp3
+avant;avant.mp3
+avec;avec.mp3

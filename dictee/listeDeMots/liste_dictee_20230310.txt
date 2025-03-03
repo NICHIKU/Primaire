@@ -1,0 +1,19 @@
+pendant;pendant.mp3
+deux;deux.mp3
+vacance;vacance.mp3
+ami;ami.mp3
+collection;collection.mp3
+chef d'oeuvre;chef_d_oeuvre.mp3
+visiteur;visiteur.mp3
+domaine;domaine.mp3
+sculpture;sculpture.mp3
+suite;suite.mp3
+exposition;exposition.mp3
+compléter;completer.mp3
+montrer;montrer.mp3
+s'écrier;s_ecrier.mp3
+remercier;remercier.mp3
+partir;partir.mp3
+découvrir;decouvrir.mp3
+être;etre.mp3
+spectaculaire;spectaculaire.mp3

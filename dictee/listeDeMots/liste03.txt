@@ -1,0 +1,10 @@
+beaucoup;beaucoup.mp3
+bien;bien.mp3
+bientôt;bientot.mp3
+car;car.mp3
+ceci;ceci.mp3
+cela;cela.mp3
+cependant;cependant.mp3
+certes;certes.mp3
+chaque;chaque.mp3
+chez;chez.mp3

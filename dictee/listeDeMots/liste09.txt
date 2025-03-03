@@ -1,0 +1,10 @@
+malgré;malgre.mp3
+mieux;mieux.mp3
+moindre;moindre.mp3
+moins;moins.mp3
+naguère;naguere.mp3
+néanmoins;neanmoins.mp3
+non;non.mp3
+par;par.mp3
+parce que;parce_que.mp3
+par-dessous;par-dessous.mp3

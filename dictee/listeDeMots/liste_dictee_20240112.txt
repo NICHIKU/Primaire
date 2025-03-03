@@ -1,0 +1,47 @@
+le Canada;le_Canada.mp3
+un artiste;un_artiste.mp3
+un animal;un_animal.mp3
+un végétal;un_vegetal.mp3
+le sujet;le_sujet.mp3
+un dessin;un_dessin.mp3
+le membre;le_membre.mp3
+un éventail;un_eventail.mp3
+s'étirer;s_etirer.mp3
+mélanger;melanger.mp3
+décorer;decorer.mp3
+principal;principal.mp3
+spécial;special.mp3
+différent;different.mp3
+une estampe;une_estampe.mp3
+la pierre;la_pierre.mp3
+le détail;le_detail.mp3
+la peinture;la_peinture.mp3
+un support;un_support.mp3
+la feuille;la_feuille.mp3
+le papier;le_papier.mp3
+réaliser;realiser.mp3
+appliquer;appliquer.mp3
+original;original.mp3
+imprimé;imprime.mp3
+la peintre;la_peintre.mp3
+le timbre;le_timbre.mp3
+un travail;un_travail.mp3
+des travaux;des_travaux.mp3
+la pièce;la_piece.mp3
+la monnaie;la_monnaie.mp3
+le vitrail;le_vitrail.mp3
+une église;une_eglise.mp3
+le prix;le_prix.mp3
+recevoir;recevoir.mp3
+régional;regional.mp3
+international;international.mp3
+nombreux;nombreux.mp3
+reproduit;reproduit.mp3
+mais;mais.mp3
+plutôt;plutot.mp3
+comme;comme.mp3
+parfois;parfois.mp3
+avec;avec.mp3
+ensuite;ensuite.mp3
+puis;puis.mp3
+enfin;enfin.mp3

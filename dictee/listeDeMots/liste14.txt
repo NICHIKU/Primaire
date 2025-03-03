@@ -1,0 +1,10 @@
+tout à coup;tout_a_coup.mp3
+tout à fait;tout_a_fait.mp3
+toutefois;toutefois.mp3
+très;tres.mp3
+trop;trop.mp3
+vers;vers.mp3
+voici;voici.mp3
+voilà;voila.mp3
+volontiers;volontiers.mp3
+vraiment;vraiment.mp3

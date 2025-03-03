@@ -1,0 +1,49 @@
+la Grèce;la_Grece.mp3
+une statue;une_statue.mp3
+un morceau;un_morceau.mp3
+une île;une_ile.mp3
+un corps;un_corps.mp3
+du métal;du_metal.mp3
+un bloc;un_bloc.mp3
+un clou;un_clou.mp3
+l'intérieur;l'interieur.mp3
+le bras;le_bras.mp3
+faire;faire.mp3
+disparaître;disparaitre.mp3
+différent;different.mp3
+maintenu;maintenu.mp3
+plusieurs;plusieurs.mp3
+depuis;depuis.mp3
+longtemps;longtemps.mp3
+ensemble;ensemble.mp3
+le dieu;le_dieu.mp3
+la déesse;la_deesse.mp3
+l'amour;l'amour.mp3
+le cheveu;le_cheveu.mp3
+le chignon;le_chignon.mp3
+le trou;le_trou.mp3
+le bijou;le_bijou.mp3
+le bracelet;le_bracelet.mp3
+la boucle;la_boucle.mp3
+une oreille;une_oreille.mp3
+penser;penser.mp3
+signaler;signaler.mp3
+long;long.mp3
+rassemblé;rassemble.mp3
+auparavant;auparavant.mp3
+le visage;le_visage.mp3
+un regard;un_regard.mp3
+l'Antiquité;l'Antiquite.mp3
+le modèle;le_modele.mp3
+la sculpture;la_sculpture.mp3
+les gens;les_gens.mp3
+devoir;devoir.mp3
+montrer;montrer.mp3
+flou;flou.mp3
+sérieux;serieux.mp3
+idéal;ideal.mp3
+beau;beau.mp3
+courageux;courageux.mp3
+sage;sage.mp3
+normal;normal.mp3
+mais;mais.mp3

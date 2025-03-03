@@ -1,0 +1,10 @@
+envers;envers.mp3
+environ;environ.mp3
+exprès;expres.mp3
+fois;fois.mp3
+guère;guere.mp3
+hélas;helas.mp3
+hier;hier.mp3
+hors de;hors_de.mp3
+ici;ici.mp3
+jadis;jadis.mp3

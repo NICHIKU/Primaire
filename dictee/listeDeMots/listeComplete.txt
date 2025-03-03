@@ -1,0 +1,558 @@
+une jupe;une_jupe.mp3
+porter;porter.mp3
+je m'appelle;je_m_appelle.mp3
+petit;petit.mp3
+passer;passer.mp3
+du sable;du_sable.mp3
+un ballon;un_ballon.mp3
+un arbre;un_arbre.mp3
+une branche;une_branche.mp3
+la garderie;la_garderie.mp3
+d'habitude;d_habitude.mp3
+le midi;le_midi.mp3
+des tomates;des_tomates.mp3
+la cantine;la_cantine.mp3
+la dinde;la_dinde.mp3
+ce matin;ce_matin.mp3
+mes devoirs;mes_devoirs.mp3
+des frites;des_frites.mp3
+la salade;la_salade.mp3
+un ami;un_ami.mp3
+une carapace;une_carapace.mp3
+un lapin;un_lapin.mp3
+mardi;mardi.mp3
+la classe;la_classe.mp3
+samedi;samedi.mp3
+nager;nager.mp3
+un cartable;un_cartable.mp3
+avec;avec.mp3
+sans;sans.mp3
+le gâteau;le_gateau.mp3
+maintenant;maintenant.mp3
+un morceau;un_morceau.mp3
+aujourd'hui;aujourd_hui.mp3
+autour;autour.mp3
+dans;dans.mp3
+quand;quand.mp3
+un autre;un_autre.mp3
+à gauche;a_gauche.mp3
+en haut;en_haut.mp3
+une chambre;une_chambre.mp3
+un homme;un_homme.mp3
+une femme;une_femme.mp3
+une ampoule;une_ampoule.mp3
+un champignon;un_champignon.mp3
+un tambour;un_tambour.mp3
+un bonbon;un_bonbon.mp3
+une lampe;une_lampe.mp3
+comment;comment.mp3
+important;important.mp3
+pourquoi;pourquoi.mp3
+beaucoup;beaucoup.mp3
+toujours;toujours.mp3
+alors;alors.mp3
+l'école;l_ecole.mp3
+le repos;le_repos.mp3
+le loup;le_loup.mp3
+un oiseau;un_oiseau.mp3
+une personne;une_personne.mp3
+le côté;le_cote.mp3
+loin;loin.mp3
+moins;moins.mp3
+la soirée;la_soiree.mp3
+le froid;le_froid.mp3
+les poils;les_poils.mp3
+la moitié;la_moitie.mp3
+voici;voici.mp3
+le toit;le_toit.mp3
+du soin;du_soin.mp3
+pouvoir;pouvoir.mp3
+la ferme;la_ferme.mp3
+le fromage;le_fromage.mp3
+le village;le_village.mp3
+une photo;une_photo.mp3
+une vache;une_vache.mp3
+des fruits;des_fruits.mp3
+le téléphone;le_telephone.mp3
+la fête;la_fete.mp3
+le frère;le_frere.mp3
+vert;vert.mp3
+verte;verte.mp3
+quand;quand.mp3
+avant;avant.mp3
+encore;encore.mp3
+souvent;souvent.mp3
+le silence;le_silence.mp3
+le danger;le_danger.mp3
+un champ;un_champ.mp3
+chanter;chanter.mp3
+le français;le_francais.mp3
+attention;attention.mp3
+un lapin;un_lapin.mp3
+un chemin;un_chemin.mp3
+le matin;le_matin.mp3
+du pain;du_pain.mp3
+le printemps;le_printemps.mp3
+la faim;la_faim.mp3
+soudain;soudain.mp3
+rien;rien.mp3
+bientôt;bientot.mp3
+plein;plein.mp3
+un pont;un_pont.mp3
+rond;rond.mp3
+le camion;le_camion.mp3
+longtemps;longtemps.mp3
+une pompe;une_pompe.mp3
+compter;compter.mp3
+bondir;bondir.mp3
+la montagne;la_montagne.mp3
+le monde;le_monde.mp3
+le pompier;le_pompier.mp3
+l'église;l_eglise.mp3
+une guirlande;une_guirlande.mp3
+une bague;une_bague.mp3
+une guitare;une_guitare.mp3
+gros;gros.mp3
+gai;gai.mp3
+agréable;agreable.mp3
+garder;garder.mp3
+rouge;rouge.mp3
+grand;grand.mp3
+un garçon;un_garcon.mp3
+un prince;un_prince.mp3
+un château;un_chateau.mp3
+une balançoire;une_balancoire.mp3
+un magicien;un_magicien.mp3
+un cygne;un_cygne.mp3
+la confiture;la_confiture.mp3
+blanc;blanc.mp3
+le chocolat;le_chocolat.mp3
+chaud;chaud.mp3
+la classe;la_classe.mp3
+la culture;la_culture.mp3
+le café;le_cafe.mp3
+la musique;la_musique.mp3
+le coq;le_coq.mp3
+le ski;le_ski.mp3
+une croix;une_croix.mp3
+quelquefois;quelquefois.mp3
+écouter;ecouter.mp3
+les sucreries;les_sucreries.mp3
+le cahier;le_cahier.mp3
+l'écriture;l_ecriture.mp3
+le plumier;le_plumier.mp3
+chez;chez.mp3
+le déjeuner;le_dejeuner.mp3
+le pied;le_pied.mp3
+la télévision;la_television.mp3
+la dictée;la_dictee.mp3
+réviser;reviser.mp3
+regarder;regarder.mp3
+la forêt;la_foret.mp3
+près de;pres_de.mp3
+derrière;derriere.mp3
+mauvais;mauvais.mp3
+hier;hier.mp3
+chercher;chercher.mp3
+se baigner;se_baigner.mp3
+presque;presque.mp3
+la lecture;la_lecture.mp3
+aimer;aimer.mp3
+le soir;le_soir.mp3
+les leçons;les_lecons.mp3
+ensuite;ensuite.mp3
+les opérations;les_operations.mp3
+la piscine;la_piscine.mp3
+sur;sur.mp3
+assez;assez.mp3
+essuyer;essuyer.mp3
+sous;sous.mp3
+la serviette;la_serviette.mp3
+une question;une_question.mp3
+la réponse;la_reponse.mp3
+une mésange;une_mesange.mp3
+un puits;un_puits.mp3
+le héros;le_heros.mp3
+une histoire;une_histoire.mp3
+une bêtise;une_betise.mp3
+la saison;la_saison.mp3
+poser;poser.mp3
+le monsieur;le_monsieur.mp3
+une perdrix;une_perdrix.mp3
+la nuit;la_nuit.mp3
+la sortie;la_sortie.mp3
+la pluie;la_pluie.mp3
+une brebis;une_brebis.mp3
+une poésie;une_poesie.mp3
+depuis;depuis.mp3
+du riz;du_riz.mp3
+un nid;un_nid.mp3
+le tapis;le_tapis.mp3
+la maison;la_maison.mp3
+mon cousin;mon_cousin.mp3
+un magasin;un_magasin.mp3
+un vase;un_vase.mp3
+une chemise;une_chemise.mp3
+une rose;une_rose.mp3
+poser;poser.mp3
+je pose;je_pose.mp3
+un zèbre;un_zebre.mp3
+deuxième;deuxieme.mp3
+sixième;sixieme.mp3
+content;content.mp3
+demain;demain.mp3
+comme;comme.mp3
+donner;donner.mp3
+un animal;un_animal.mp3
+difficile;difficile.mp3
+triste;triste.mp3
+trop;trop.mp3
+apporter;apporter.mp3
+la voisine;la_voisine.mp3
+la douleur;la_douleur.mp3
+la chaleur;la_chaleur.mp3
+le chanteur;le_chanteur.mp3
+le coeur;le_coeur.mp3
+une soeur;une_soeur.mp3
+un oeuf;un_oeuf.mp3
+le malheur;le_malheur.mp3
+un oeil;un_oeil.mp3
+neuf;neuf.mp3
+l'heure;l_heure.mp3
+la plante;la_plante.mp3
+les parents;les_parents.mp3
+en dessous;en_dessous.mp3
+les enfants;les_enfants.mp3
+immense;immense.mp3
+devant;devant.mp3
+pendant;pendant.mp3
+sans;sans.mp3
+manger;manger.mp3
+avec;avec.mp3
+un papillon;un_papillon.mp3
+de la paille;de_la_paille.mp3
+la feuille;la_feuille.mp3
+une grenouille;une_grenouille.mp3
+la rivière;la_riviere.mp3
+un glaïeul;un_glaieul.mp3
+une abeille;une_abeille.mp3
+une anguille;une_anguille.mp3
+une citrouille;une_citrouille.mp3
+une corbeille;une_corbeille.mp3
+la douleur;la_douleur.mp3
+la chaleur;la_chaleur.mp3
+le chanteur;le_chanteur.mp3
+le coeur;le_coeur.mp3
+une soeur;une_soeur.mp3
+un oeuf;un_oeuf.mp3
+le malheur;le_malheur.mp3
+un oeil;un_oeil.mp3
+neuf;neuf.mp3
+l'heure;l_heure.mp3
+la plante;la_plante.mp3
+les parents;les_parents.mp3
+en dessous;en_dessous.mp3
+les enfants;les_enfants.mp3
+immense;immense.mp3
+devant;devant.mp3
+pendant;pendant.mp3
+sans;sans.mp3
+manger;manger.mp3
+avec;avec.mp3
+content;content.mp3
+demain;demain.mp3
+comme;comme.mp3
+donner;donner.mp3
+un animal;un_animal.mp3
+difficile;difficile.mp3
+triste;triste.mp3
+trop;trop.mp3
+apporter;apporter.mp3
+la voisine;la_voisine.mp3
+une phrase;une_phrase.mp3
+l'orthographe;l_orthographe.mp3
+le cheval;le_cheval.mp3
+la chèvre;la_chevre.mp3
+dehors;dehors.mp3
+la niche;la_niche.mp3
+l'hiver;l_hiver.mp3
+les branches;les_branches.mp3
+la cheminée;la_cheminee.mp3
+l'histoire;l_histoire.mp3
+joyeux;joyeux.mp3
+le paysage;le_paysage.mp3
+un voyage;un_voyage.mp3
+une bicyclette;une_bicyclette.mp3
+un cycliste;un_cycliste.mp3
+la gymnastique;la_gymnastique.mp3
+un rallye;un_rallye.mp3
+le yoga;le_yoga.mp3
+le gruyère;le_gruyere.mp3
+il y a;il_y_a.mp3
+aussitôt;aussitot.mp3
+même;meme.mp3
+dernière;derniere.mp3
+le père;le_pere.mp3
+très;tres.mp3
+un été;un_ete.mp3
+déjà;deja.mp3
+la mère;la_mere.mp3
+une année;une_annee.mp3
+la première;la_premiere.mp3
+meilleur;meilleur.mp3
+un champion;un_champion.mp3
+la quille;la_quille.mp3
+la bille;la_bille.mp3
+la médaille;la_medaille.mp3
+la corbeille;la_corbeille.mp3
+une bouteille;une_bouteille.mp3
+le gardien;le_gardien.mp3
+pareil;pareil.mp3
+merveilleux;merveilleux.mp3
+une couverture;une_couverture.mp3
+une chose;une_chose.mp3
+de l'herbe;de_l_herbe.mp3
+un coffre;un_coffre.mp3
+un filet;un_filet.mp3
+un panier;un_panier.mp3
+lourd;lourd.mp3
+enfin;enfin.mp3
+le déjeuner;le_dejeuner.mp3
+la journée;la_journee.mp3
+grand;grand.mp3
+petit;petit.mp3
+parfois;parfois.mp3
+la famille;la_famille.mp3
+rentrer;rentrer.mp3
+fragile;fragile.mp3
+boire;boire.mp3
+la soif;la_soif.mp3
+la fenêtre;la_fenetre.mp3
+elle est belle;elle_est_belle.mp3
+un clown;un_clown.mp3
+la cour;la_cour.mp3
+la moustache;la_moustache.mp3
+le poulet;le_poulet.mp3
+tout à coup;tout_a_coup.mp3
+debout;debout.mp3
+doucement;doucement.mp3
+étrange;etrange.mp3
+un cirque;un_cirque.mp3
+lorsque;lorsque.mp3
+un but;un_but.mp3
+applaudir;applaudir.mp3
+un joueur;un_joueur.mp3
+avancer;avancer.mp3
+un terrain;un_terrain.mp3
+un éclair;un_eclair.mp3
+un spectateur;un_spectateur.mp3
+s'envoler;s_envoler.mp3
+passer;passer.mp3
+lever;lever.mp3
+à côté de;a_cote_de.mp3
+alors;alors.mp3
+après;apres.mp3
+assez;assez.mp3
+aujourd'hui;aujourd_hui.mp3
+aussi;aussi.mp3
+autour;autour.mp3
+autrefois;autrefois.mp3
+autrement;autrement.mp3
+avant;avant.mp3
+avec;avec.mp3
+beaucoup;beaucoup.mp3
+bien;bien.mp3
+bientôt;bientot.mp3
+car;car.mp3
+cependant;cependant.mp3
+chez;chez.mp3
+combien;combien.mp3
+comme;comme.mp3
+comment;comment.mp3
+contre;contre.mp3
+dans;dans.mp3
+dedans;dedans.mp3
+dehors;dehors.mp3
+déjà;deja.mp3
+demain;demain.mp3
+depuis;depuis.mp3
+devant;devant.mp3
+donc;donc.mp3
+encore;encore.mp3
+enfin;enfin.mp3
+ensuite;ensuite.mp3
+entre;entre.mp3
+envers;envers.mp3
+exprès;expres.mp3
+fois;fois.mp3
+hier;hier.mp3
+ici;ici.mp3
+il y a;il_y_a.mp3
+jamais;jamais.mp3
+jusque;jusque.mp3
+loin;loin.mp3
+longtemps;longtemps.mp3
+lorsque;lorsque.mp3
+mais;mais.mp3
+maintenant;maintenant.mp3
+malgré;malgre.mp3
+mieux;mieux.mp3
+moins;moins.mp3
+parce que;parce_que.mp3
+parfois;parfois.mp3
+parmi;parmi.mp3
+pendant;pendant.mp3
+personne;personne.mp3
+peu;peu.mp3
+peut-être;peut-etre.mp3
+plus;plus.mp3
+plusieurs;plusieurs.mp3
+pourtant;pourtant.mp3
+pourquoi;pourquoi.mp3
+près;pres.mp3
+presque;presque.mp3
+puis;puis.mp3
+quand;quand.mp3
+quoi;quoi.mp3
+rien;rien.mp3
+sans;sans.mp3
+sauf;sauf.mp3
+soudain;soudain.mp3
+surtout;surtout.mp3
+souvent;souvent.mp3
+tard;tard.mp3
+tôt;tot.mp3
+tout à coup;tout_a_coup.mp3
+toujours;toujours.mp3
+vers;vers.mp3
+soixante;soixante.mp3
+soixante-et-un;soixante-et-un.mp3
+soixante-deux;soixante-deux.mp3
+soixante-trois;soixante-trois.mp3
+soixante-quatre;soixante-quatre.mp3
+soixante-cinq;soixante-cinq.mp3
+soixante-six;soixante-six.mp3
+soixante-sept;soixante-sept.mp3
+soixante-huit;soixante-huit.mp3
+soixante-neuf;soixante-neuf.mp3
+soixante-dix;soixante-dix.mp3
+soixante-et-onze;soixante-et-onze.mp3
+soixante-douze;soixante-douze.mp3
+soixante-treize;soixante-treize.mp3
+soixante-quatorze;soixante-quatorze.mp3
+soixante-quinze;soixante-quinze.mp3
+soixante-seize;soixante-seize.mp3
+soixante-dix-sept;soixante-dix-sept.mp3
+soixante-dix-huit;soixante-dix-huit.mp3
+soixante-dix-neuf;soixante-dix-neuf.mp3
+quatre-vingts;quatre-vingts.mp3
+quatre-vingt-un;quatre-vingt-un.mp3
+quatre-vingt-deux;quatre-vingt-deux.mp3
+quatre-vingt-trois;quatre-vingt-trois.mp3
+quatre-vingt-quatre;quatre-vingt-quatre.mp3
+quatre-vingt-cinq;quatre-vingt-cinq.mp3
+quatre-vingt-six;quatre-vingt-six.mp3
+quatre-vingt-sept;quatre-vingt-sept.mp3
+quatre-vingt-huit;quatre-vingt-huit.mp3
+quatre-vingt-neuf;quatre-vingt-neuf.mp3
+quatre-vingt-dix;quatre-vingt-dix.mp3
+quatre-vingt-onze;quatre-vingt-onze.mp3
+quatre-vingt-douze;quatre-vingt-douze.mp3
+quatre-vingt-treize;quatre-vingt-treize.mp3
+quatre-vingt-quatorze;quatre-vingt-quatorze.mp3
+quatre-vingt-quinze;quatre-vingt-quinze.mp3
+quatre-vingt-seize;quatre-vingt-seize.mp3
+quatre-vingt-dix-sept;quatre-vingt-dix-sept.mp3
+quatre-vingt-dix-huit;quatre-vingt-dix-huit.mp3
+quatre-vingt-dix-neuf;quatre-vingt-dix-neuf.mp3
+ma classe;ma_classe.mp3
+sage;sage.mp3
+aussi;aussi.mp3
+désobéissant;desobeissant.mp3
+les consignes;les_consignes.mp3
+la piscine;la_piscine.mp3
+il s'appelle;il_s_appelle.mp3
+même;meme.mp3
+semblant;semblant.mp3
+des policiers;des_policiers.mp3
+le zoo;le_zoo.mp3
+très;tres.mp3
+plaisir;plaisir.mp3
+cela;cela.mp3
+un zèbre;un_zebre.mp3
+deuxième;deuxieme.mp3
+troisième;troisieme.mp3
+une pizza;une_pizza.mp3
+gazeuse;gazeuse.mp3
+le temps;le_temps.mp3
+soudain;soudain.mp3
+le hasard;le_hasard.mp3
+un sommet;un_sommet.mp3
+une falaise;une_falaise.mp3
+mars;mars.mp3
+le printemps;le_printemps.mp3
+des oiseaux;des_oiseaux.mp3
+un bus;un_bus.mp3
+des plumes;des_plumes.mp3
+le soleil;le_soleil.mp3
+donc;donc.mp3
+dont;dont.mp3
+dorénavant;dorenavant.mp3
+durant;durant.mp3
+encore;encore.mp3
+en effet;en_effet.mp3
+enfin;enfin.mp3
+ensuite;ensuite.mp3
+entre;entre.mp3
+en vérité;en_verite.mp3
+envers;envers.mp3
+environ;environ.mp3
+exprès;expres.mp3
+fois;fois.mp3
+guère;guere.mp3
+hélas;helas.mp3
+hier;hier.mp3
+hors de;hors_de.mp3
+ici;ici.mp3
+jadis;jadis.mp3
+afin de;afin_de.mp3
+afin que;afin_que.mp3
+ailleurs;ailleurs.mp3
+ainsi;ainsi.mp3
+à travers;a_travers.mp3
+au-dessous;au-dessous.mp3
+au-dessus;au-dessus.mp3
+auparavant;auparavant.mp3
+ça;ça.mp3
+certes;certes.mp3
+chaque;chaque.mp3
+d'abord;d_abord.mp3
+d'accord;d_accord.mp3
+davantage;davantage.mp3
+de nouveau;de_nouveau.mp3
+dès lors;des_lors.mp3
+dès que;des_que.mp3
+désormais;desormais.mp3
+dessus;dessus.mp3
+jusqu'à;jusqu_a.mp3
+là;la.mp3
+là-bas;la-bas.mp3
+le long;le_long.mp3
+lors de;lors_de.mp3
+moindre;moindre.mp3
+naguère;naguere.mp3
+néanmoins;neanmoins.mp3
+non;non.mp3
+par;par.mp3
+par-dessous;par-dessous.mp3
+par-dessus;par-dessus.mp3
+plutôt;plutot.mp3
+tant;tant.mp3
+tant mieux;tant_mieux.mp3
+tantôt;tantot.mp3
+tant pis;tant_pis.mp3
+tout à fait;tout_a_fait.mp3
+toutefois;toutefois.mp3
+voilà;voila.mp3
+volontiers;volontiers.mp3
+vraiment;vraiment.mp3

@@ -1,0 +1,10 @@
+demain;demain.mp3
+de nouveau;de_nouveau.mp3
+depuis;depuis.mp3
+derrière;derriere.mp3
+dès lors;des_lors.mp3
+dès que;des_que.mp3
+désormais;desormais.mp3
+dessous;dessous.mp3
+dessus;dessus.mp3
+devant;devant.mp3

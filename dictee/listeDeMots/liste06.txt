@@ -1,0 +1,10 @@
+donc;donc.mp3
+dont;dont.mp3
+dorénavant;dorenavant.mp3
+durant;durant.mp3
+encore;encore.mp3
+en effet;en_effet.mp3
+enfin;enfin.mp3
+ensuite;ensuite.mp3
+entre;entre.mp3
+en vérité;en_verite.mp3

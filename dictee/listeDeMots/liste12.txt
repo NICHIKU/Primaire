@@ -1,0 +1,10 @@
+quelquefois;quelquefois.mp3
+quoique;quoique.mp3
+sans;sans.mp3
+sauf;sauf.mp3
+selon;selon.mp3
+seulement;seulement.mp3
+sinon;sinon.mp3
+sitôt;sitot.mp3
+soudain;soudain.mp3
+sous;sous.mp3

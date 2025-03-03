@@ -1,0 +1,17 @@
+quand;quand.mp3
+partout;partout.mp3
+où;ou.mp3
+sans cesse;sans_cesse.mp3
+également;egalement.mp3
+policier;policier.mp3
+pompier;pompier.mp3
+gens;gens.mp3
+danger;danger.mp3
+plaisir;plaisir.mp3
+des parents;des_parents.mp3
+uniforme;uniforme.mp3
+photographie;photographie.mp3
+cacher;cacher.mp3
+grand;grand.mp3
+formidable;formidable.mp3
+beau;beau.mp3

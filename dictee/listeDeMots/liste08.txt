@@ -1,0 +1,11 @@
+jamais;jamais.mp3
+jusqu'à;jusqu_a.mp3
+là;la.mp3
+là-bas;la-bas.mp3
+le long;le_long.mp3
+loin;loin.mp3
+longtemps;longtemps.mp3
+lors de;lors_de.mp3
+lorsque;lorsque.mp3
+maintenant;maintenant.mp3
+mais;mais.mp3

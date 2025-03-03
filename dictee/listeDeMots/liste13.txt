@@ -1,0 +1,10 @@
+souvent;souvent.mp3
+sur;sur.mp3
+surtout;surtout.mp3
+tant;tant.mp3
+tant mieux;tant_mieux.mp3
+tantôt;tantot.mp3
+tant pis;tant_pis.mp3
+tard;tard.mp3
+tôt;tot.mp3
+toujours;toujours.mp3

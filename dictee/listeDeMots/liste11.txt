@@ -1,0 +1,10 @@
+plusieurs;plusieurs.mp3
+plutôt;plutot.mp3
+pour;pour.mp3
+pourquoi;pourquoi.mp3
+pourtant;pourtant.mp3
+près;pres.mp3
+presque;presque.mp3
+puis;puis.mp3
+quand;quand.mp3
+quoi;quoi.mp3
