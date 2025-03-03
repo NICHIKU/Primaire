@@ -1,0 +1,11 @@
+jouer
+gagner
+parler
+danser
+écouter
+porter
+manger
+effacer
+glisser
+être
+avoir
