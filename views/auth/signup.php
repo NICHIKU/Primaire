@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <label for="role" class="form-label">Role:</label>
             <select class="form-select" id="role" name="role" required>
                 <option value="Enfant">Enfant</option>
-                <option value="Professeur">Professeur</option>
+                <option value="Professeur(e)">Professeur(e)</option>
                 <option value="Parent">Parent</option>
             </select>
         </div>
