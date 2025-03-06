@@ -24,21 +24,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <?php include '../layout/header.php'; ?>
 
 <div class="container">
-    <h2>Login</h2>
+    <h2>Connexion</h2>
     <?php if ($login_error): ?>
         <div class="alert alert-danger"><?php echo $login_error; ?></div>
     <?php endif; ?>
     <form method="post" action="login.php">
         <div class="mb-3">
-            <label for="username" class="form-label">Username:</label>
+            <label for="username" class="form-label">Nom d'utilisateur :</label>
             <input type="text" class="form-control" id="username" name="username" required>
         </div>
         <div class="mb-3">
-            <label for="password" class="form-label">Password:</label>
+            <label for="password" class="form-label">Mot de passe :</label>
             <input type="password" class="form-control" id="password" name="password" required>
         </div>
-        <button type="submit" class="btn btn-primary">Login</button>
-        <p class="mt-3">Don't have an account? <a href="signup.php">Sign up</a></p>
+        <button type="submit" class="btn btn-primary">Connexion</button>
+        <p class="mt-3">Vous n'avez pas de compte ? <a href="signup.php">Inscrivez vous</a></p>
     </form>
 </div>
 

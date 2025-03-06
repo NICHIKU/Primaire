@@ -1,4 +1,5 @@
 <?php
+
 require_once __DIR__ . '/../../controllers/AuthController.php';
 $authController = new AuthController();
 $loggedInUser = $authController->getLoggedInUser();
@@ -15,7 +16,7 @@ $loggedInUser = $authController->getLoggedInUser();
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
-        <a class="navbar-brand" href="../../index.php">School System</a>
+        <a class="navbar-brand" href="../../index.php">Tests Primaire</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -23,11 +24,11 @@ $loggedInUser = $authController->getLoggedInUser();
             <ul class="navbar-nav me-auto">
                 <?php if ($loggedInUser): ?>
                     <li class="nav-item">
-                        <a class="nav-link" href="../../index.php">Home</a>
+                        <a class="nav-link" href="../../index.php">Accueil</a>
                     </li>
                     <?php if ($loggedInUser['role'] == 'parent'): ?>
                         <li class="nav-item">
-                            <a class="nav-link" href="stats.php">Child Stats</a>
+                            <a class="nav-link" href="stats.php">Stats Enfant</a>
                         </li>
                     <?php endif; ?>
                 <?php endif; ?>
@@ -35,17 +36,17 @@ $loggedInUser = $authController->getLoggedInUser();
             <ul class="navbar-nav">
                 <?php if ($loggedInUser): ?>
                     <li class="nav-item">
-                        <span class="nav-link">Welcome, <?php echo htmlspecialchars($loggedInUser['username']); ?> (<?php echo htmlspecialchars(ucfirst($loggedInUser['role'])); ?>)</span>
+                        <span class="nav-link">Bienvenue, <?php echo htmlspecialchars($loggedInUser['username']); ?> (<?php echo htmlspecialchars(ucfirst($loggedInUser['role'])); ?>)</span>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../../logout.php">Logout</a>
+                        <a class="nav-link" href="../../logout.php">Déconnecter</a>
                     </li>
                 <?php else: ?>
                     <li class="nav-item">
-                        <a class="nav-link" href="auth/login.php">Login</a>
+                        <a class="nav-link" href="views/auth/login.php">Connecter</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="auth/signup.php">Signup</a>
+                        <a class="nav-link" href="views/auth/signup.php">Inscrire</a>
                     </li>
                 <?php endif; ?>
             </ul>
