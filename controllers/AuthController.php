@@ -5,6 +5,12 @@ require_once __DIR__ . '/../models/User.php';
 class AuthController {
     private $userModel;
 
+    private function startSessionIfNeeded() {
+        if (session_status() === PHP_SESSION_NONE) {
+            session_start();
+        }
+    }
+
     public function __construct() {
         $this->userModel = new User();
     }
@@ -21,7 +27,7 @@ class AuthController {
         $user = $this->userModel->login($username, $password);
         if ($user) {
             // Start session and set user data
-            session_start();
+            $this->startSessionIfNeeded();
             $_SESSION['user_id'] = $user['user_id'];
             $_SESSION['username'] = $user['username'];
             $_SESSION['role'] = $user['role'];
@@ -32,15 +38,15 @@ class AuthController {
     }
 
     public function logout() {
-        session_start();
+        $this->startSessionIfNeeded();
         session_unset();
         session_destroy();
-        header('Location: login.php'); // Redirect to login page after logout
+        header('Location: index.php'); // Redirect to login page after logout
         exit();
     }
 
     public function isLoggedIn() {
-        session_start();
+        $this->startSessionIfNeeded();
         return isset($_SESSION['user_id']);
     }
 
