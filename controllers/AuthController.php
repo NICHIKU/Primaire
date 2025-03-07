@@ -1,9 +1,11 @@
 <?php
 
 require_once __DIR__ . '/../models/User.php';
+require_once __DIR__ . '/../models/Relative.php';
 
 class AuthController {
     private $userModel;
+    private $relativeModel;
 
     private function startSessionIfNeeded() {
         if (session_status() === PHP_SESSION_NONE) {
@@ -13,6 +15,7 @@ class AuthController {
 
     public function __construct() {
         $this->userModel = new User();
+        $this->relativeModel = new Relative();
     }
 
     public function signup($username, $password, $email, $role) {
@@ -21,6 +24,26 @@ class AuthController {
         } else {
             return false; // Signup failed (e.g., username already exists)
         }
+    }
+
+    // Nouvelle méthode pour inscrire un parent et retourner son ID
+    public function signupParent($username, $password, $email, $role) {
+        return $this->userModel->signupAndGetId($username, $password, $email, $role);
+    }
+
+    // Nouvelle méthode pour lier un parent à un enfant
+    public function linkParentToChild($parent_id, $child_id) {
+        return $this->relativeModel->createRelationship($parent_id, $child_id);
+    }
+
+    // Nouvelle méthode pour récupérer la liste des enfants
+    public function getChildrenList() {
+        return $this->userModel->getAllChildren();
+    }
+
+    // Nouvelle méthode pour récupérer les enfants d'un parent
+    public function getChildrenForParent($parent_id) {
+        return $this->relativeModel->getChildrenByParentId($parent_id);
     }
 
     public function login($username, $password) {
@@ -68,5 +91,3 @@ class AuthController {
         }
     }
 }
-
-?>
