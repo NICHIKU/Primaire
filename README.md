@@ -1,4 +1,4 @@
-# Projet Quiz de Calcul Mental
+# Projet Quiz de Primaire
 
 ## Description du projet
 
