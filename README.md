@@ -4,6 +4,15 @@
 
 Ce projet est une application web interactive de quiz de calcul mental, conçue pour aider les enfants à améliorer leurs compétences en arithmétique de manière ludique. L'application propose différents types d'opérations (addition, soustraction, multiplication) et permet aux parents et aux enseignants de suivre les progrès des enfants grâce à des statistiques détaillées.
 
+# Host en local
+
+Pour lancer l'application en local, vous pouvez utiliser un serveur web local comme XAMPP, WAMP ou MAMP. Voici les étapes générales pour lancer l'application :
+
+1.  **Installer un serveur local :**  Téléchargez et installez un serveur local comme XAMPP (https://www.apachefriends.org/index.html).
+2.  **Configurer la base de données :**  Créez une base de données MySQL et importez le fichier `bdd.sql` pour créer les tables nécessaires.
+3.  **Configurer la connexion à la base de données :**  Modifiez le fichier `config/database.php` pour configurer les logs de la base de données.
+4.  **Placer les fichiers dans le répertoire racine du serveur :**  Placez les fichiers de l'application dans le répertoire racine du serveur local (ex: `htdocs` pour XAMPP).
+5.  **Accéder à l'application :**  Ouvrez un navigateur web et accédez à l'URL locale correspondant au serveur (ex: `http://localhost:8888/index.php`).
 
 
 ## Fonctionnalités principales
