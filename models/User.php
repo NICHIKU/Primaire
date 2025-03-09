@@ -6,9 +6,11 @@ class User {
     private $conn;
 
     public function __construct() {
-        $database = new Database();
+        $database = Database::getInstance(); // Use getInstance() here
         $this->conn = $database->getConnection();
     }
+
+    // ... (rest of your User class code remains the same) ...
 
     public function signup($username, $password, $email, $role) {
         // Vérifier si le nom d'utilisateur existe déjà
@@ -66,7 +68,7 @@ class User {
         try {
             $stmt = $this->conn->prepare("SELECT * FROM users WHERE username = ?");
             $stmt->execute([$username]);
-            
+
             if ($stmt->rowCount() > 0) {
                 $user = $stmt->fetch(PDO::FETCH_ASSOC);
                 if (password_verify($password, $user['password'])) {
@@ -83,7 +85,7 @@ class User {
         try {
             $stmt = $this->conn->prepare("SELECT * FROM users WHERE user_id = ?");
             $stmt->execute([$user_id]);
-            
+
             if ($stmt->rowCount() > 0) {
                 return $stmt->fetch(PDO::FETCH_ASSOC);
             }

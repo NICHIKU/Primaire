@@ -6,7 +6,7 @@ class Relative {
     private $conn;
 
     public function __construct() {
-        $database = new Database();
+        $database = Database::getInstance(); // Corrected line, use getInstance()
         $this->conn = $database->getConnection();
     }
 

@@ -36,3 +36,15 @@ CREATE TABLE IF NOT EXISTS stats (
     FOREIGN KEY (user_id) REFERENCES users(user_id) ON DELETE CASCADE,
     FOREIGN KEY (exercise_id) REFERENCES exercises(exercise_id) ON DELETE CASCADE
 );
+
+CREATE TABLE question_results (
+    result_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    question_number INT NOT NULL,
+    operation VARCHAR(255) NOT NULL,
+    user_answer VARCHAR(255) NOT NULL,
+    correct_answer VARCHAR(255) NOT NULL,
+    is_correct BOOLEAN NOT NULL,
+    completion_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(user_id)
+);
